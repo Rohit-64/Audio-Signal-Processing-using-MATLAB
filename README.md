@@ -22,16 +22,6 @@
         <li><strong>Audio Playback and Saving</strong>: Playing back the original and filtered audio signals and saving the filtered signals as new audio files.</li>
     </ul>
 
-   <h2>Project Structure</h2>
-    <pre>
-audio-signal-processing-matlab/
-│
-├── BUMMER.WAV              # Input audio file
-├── handel.mat              # Preloaded audio data from MATLAB
-├── audio_signal_processing.m  # Main MATLAB script
-└── README.md               # Project documentation
-    </pre>
-
    <h2>Key Functions</h2>
    <ul>
         <li><code>audioread</code>: Reads audio files into MATLAB.</li>
@@ -45,7 +35,7 @@ audio-signal-processing-matlab/
 
 
    <h2>Contact</h2>
-    <p>For any inquiries, please contact <a href="mailto:das201706@gmail.com">yEmail</a>.</p>
+    <p>For any inquiries, please contact <a href="mailto:das201706@gmail.com">Email</a>.</p>
 
 </body>
 </html>
